@@ -14,7 +14,8 @@
 
 ###
 
-<p align="left">In my studies I learned about the following technologies:<br><br>-  Java<br>-  Spring<br>-  MySQL<br>-  Rest API's<br>-  JUnit<br>-  Mockito<br>-  JWT<br>-  HTML<br>-  CSS<br>-  Angular<br>-  JS<br>-  Git</p>
+<p align="left">In my studies I learned about the following technologies:<br><br>-  Java<br>-  Spring<br>-  MySQL<br>-  Rest API's<br>-  JUnit<br>-  Mockito<br>
+  -  Swagger<br>-  Mockito<br>-  JWT<br>-  HTML<br>-  CSS<br>-  Angular<br>-  JS<br>-  Git</p>
 
 <div>
 <a href="https://github.com/AlexFerreira10">
