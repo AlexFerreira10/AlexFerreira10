@@ -1,41 +1,50 @@
-<h1 align="left">Hi, my name is Alex Ferreira!</h1>
+<h1 align="center">Hi, I'm Alex Ferreira! 👋</h1>
 
 ###
 
-<p align="left">Java Backend Development Student</p>
+<p align="center">
+  <strong>Full-Stack Developer | Data Scientist </strong>
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">✨ About Me</h2>
+
+<p align="left">
+  Passionate about technology and problem-solving, I've been developing software since 2023. I'm currently studying <strong>Computer Science</strong> at <strong>Universidade do Estado do Rio de Janeiro (UERJ)</strong>, with graduation expected in 2026.2.<br>
+  🎯 I have dedicated myself to software development and data science, two areas that fascinate me and where I am looking to start my career..<br>
+  🎲 I have more than a year of experience with Java backend development.
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently study Computer of Sciense in Universadade do Estado do Rio de Janeiro.<br>🎯 Goals: Is to become a reference in Java development with Spring, dedicating myself to the continuous improvement of my skills and excellence in each project.<br>🎲 Curious fact: In the future, I intend to produce educational content to contribute to the developer community, sharing knowledge and good practices.</p>
+<h2 align="left">💻 Technologies I've Worked With</h2>
+
+<p align="left">
+  <strong>Languages & Frameworks:</strong> Java, Spring, Angular, TypeScript, JavaScript, C#, HTML, CSS, Python<br>
+  <strong>Databases & Tools:</strong> MySQL, PostgreSQL, Docker, Git, JUnit, Mockito, Swagger, JWT, Power BI, Excel<br>
+  <strong>Other Skills:</strong> REST APIs, Microservices, Machine Learning, Probability and Statistics, SQL, Agile Methods
+</p>
 
 ###
 
-<p align="left">In my studies I learned about the following technologies:<br><br>-  Java<br>-  Spring<br>-  MySQL<br>-  Rest API's<br>-  JUnit<br>-  Mockito<br>
-  -  Swagger<br>-  Mockito<br>-  JWT<br>-  HTML<br>-  CSS<br>-  Angular<br>-  JS<br>-  Git</p>
-
-<div>
-<a href="https://github.com/AlexFerreira10">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFerreira10&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexFerreira10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/AlexFerreira10">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFerreira10&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexFerreira10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
-
 ###
 
-<h2 align="left">Contact</h2>
-
-###
+<h2 align="left">📬 Contact Me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alexferreira92" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="correaferreiraalex92@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:correaferreiraalex92@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
 
