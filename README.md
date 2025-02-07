@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <strong>Full-Stack Developer | Data Scientist </strong>
+  <strong>Full-Stack Developer</strong>
 </p>
 
 ###
@@ -12,8 +12,8 @@
 
 <p align="left">
   Passionate about technology and problem-solving, I've been developing software since 2023. I'm currently studying <strong>Computer Science</strong> at <strong>Universidade do Estado do Rio de Janeiro (UERJ)</strong>, with graduation expected in 2026.2.<br>
-  🎯 I have dedicated myself to software development and data science, two areas that fascinate me and where I am looking to start my career..<br>
-  🎲 I have more than a year of experience with Java backend development.
+  🎯 I have dedicated myself to software development<br>
+  🎲 I have more than a year of experience with Java backend development and proficiency in mobile development with Flutter.
 </p>
 
 ###
@@ -21,9 +21,9 @@
 <h2 align="left">💻 Technologies I've Worked With</h2>
 
 <p align="left">
-  <strong>Languages & Frameworks:</strong> Java, Spring, Angular, TypeScript, JavaScript, C#, HTML, CSS, Python<br>
-  <strong>Databases & Tools:</strong> MySQL, PostgreSQL, Docker, Git, JUnit, Mockito, Swagger, JWT, Power BI, Excel<br>
-  <strong>Other Skills:</strong> REST APIs, Microservices, Machine Learning, Probability and Statistics, SQL, Agile Methods
+  <strong>Languages & Frameworks:</strong> Java, Spring, Angular, TypeScript, JavaScript, Flutter, Dart, C#, HTML, CSS, Python, <br>
+  <strong>Databases & Tools:</strong> MySQL, PostgreSQL, Docker, Git, JUnit, Mockito, Swagger, JWT, Firabase, Redis<br>
+  <strong>Other Skills:</strong> REST APIs, Microservices, Clean Architecture, Agile Methods
 </p>
 
 ###
