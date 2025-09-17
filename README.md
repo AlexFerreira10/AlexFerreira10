@@ -11,9 +11,7 @@
 <h2 align="left">✨ About Me</h2>
 
 <p align="left">
-  Passionate about technology and problem-solving, I've been developing software since 2023. I'm currently studying <strong>Computer Science</strong> at <strong>Universidade do Estado do Rio de Janeiro (UERJ)</strong>, with graduation expected in 2026.2.<br>
-  🎯 I have dedicated myself to software development<br>
-  🎲 I have more than a year of experience with Java backend development and proficiency in mobile development with Flutter.
+    I'm a software developer with over two years of experience, specializing in Flutter. My experience includes working with startups, industrial systems, and government projects, always focusing on scalable architectures, applying Clean Architecture and modern standards like SOLID, MVC, and MVVM to deliver reliable, high-performance, and maintainable solutions.
 </p>
 
 ###
@@ -21,9 +19,13 @@
 <h2 align="left">💻 Technologies I've Worked With</h2>
 
 <p align="left">
-  <strong>Languages & Frameworks:</strong> Java, Spring, Angular, TypeScript, JavaScript, Flutter, Dart, C#, HTML, CSS, Python, <br>
-  <strong>Databases & Tools:</strong> MySQL, PostgreSQL, Docker, Git, JUnit, Mockito, Swagger, JWT, Firabase, Redis<br>
-  <strong>Other Skills:</strong> REST APIs, Microservices, Clean Architecture, Agile Methods
+  • <strong>Mobile:</strong> Flutter, Dart, Riverpod, Bloc, Flutter Secure Storage, Shared Preferences, Hive
+  • <strong>Architecture:</strong> Clean Architecture, MVC, SOLID, Design Patterns
+  • <strong>Integrations:</strong> RESTful APIs (Dio/HTTP), Firebase, i18n
+  • <strong>Backend & Data:</strong> Java, Spring Boot, PostgreSQL, MySQL, Redis, SQLite
+  • <strong>Tools:</strong> Git, GitHub, Azure DevOps, Docker, AWS
+  • <strong>Mobile Features:</strong> Camera, Geolocation, PDFs, Native Printing
+  • <strong>Testing:</strong> Unit and Widget Testing  
 </p>
 
 ###
