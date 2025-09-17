@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <strong>Full-Stack Developer</strong>
+  <strong>Flutter Mobile Developer</strong>
 </p>
 
 ###
