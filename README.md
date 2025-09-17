@@ -19,12 +19,12 @@
 <h2 align="left">💻 Technologies I've Worked With</h2>
 
 <p align="left">
-  • <strong>Mobile:</strong> Flutter, Dart, Riverpod, Bloc, Flutter Secure Storage, Shared Preferences, Hive
-  • <strong>Architecture:</strong> Clean Architecture, MVC, SOLID, Design Patterns
-  • <strong>Integrations:</strong> RESTful APIs (Dio/HTTP), Firebase, i18n
-  • <strong>Backend & Data:</strong> Java, Spring Boot, PostgreSQL, MySQL, Redis, SQLite
-  • <strong>Tools:</strong> Git, GitHub, Azure DevOps, Docker, AWS
-  • <strong>Mobile Features:</strong> Camera, Geolocation, PDFs, Native Printing
+  • <strong>Mobile:</strong> Flutter, Dart, Riverpod, Bloc, Flutter Secure Storage, Shared Preferences, Hive <br>
+  • <strong>Architecture:</strong> Clean Architecture, MVC, SOLID, Design Patterns <br>
+  • <strong>Integrations:</strong> RESTful APIs (Dio/HTTP), Firebase, i18n <br>
+  • <strong>Backend & Data:</strong> Java, Spring Boot, PostgreSQL, MySQL, Redis, SQLite <br>
+  • <strong>Tools:</strong> Git, GitHub, Azure DevOps, Docker, AWS <br>
+  • <strong>Mobile Features:</strong> Camera, Geolocation, PDFs, Native Printing <br>
   • <strong>Testing:</strong> Unit and Widget Testing  
 </p>
 
